@@ -9,7 +9,7 @@ I love translating ideas and problems into scalable solutions with design and te
 
 - 🌍  I live in United Kingdom
 
-- 🖥️  See my portfolio at menaesezobor.com
+- 🖥️  See my portfolio at  [menaesezobor.com](https://menaesezobor.com)
 
 - ✉️  You can contact me at menaesezobor@gmail.com
 
