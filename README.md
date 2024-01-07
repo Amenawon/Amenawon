@@ -18,8 +18,13 @@ I love translating ideas and problems into scalable solutions with design and te
 - 🧠  Recently built fake news detection algorithm with Python.
 
 - 🤝  I'm open to collaborating on anything Frontend/Backend.
+  
+- 📝 I regularly write articles on [Medium](https://medium.com/@amenawon)
 
 - ⚡  Movie and music lover, upcoming gym junkie and avid traveller
+  
+## What I'm working on
+Currently learning Rust and Python
 
 ## Languages and Tools:
 <!-- <h3 align="left">Languages and Tools:</h3> -->
