@@ -4,8 +4,6 @@
 
 I love translating ideas and problems into scalable solutions with design and technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amenawon&label=Profile%20views&color=0e75b6&style=flat" alt="Amenawon" /> </p>
-
 
 - 🌍  I live in United Kingdom
 
